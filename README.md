@@ -1,5 +1,3 @@
-# network-interactive-day-1
-
 - wolverine
 - byczqu
 - BATMAN
