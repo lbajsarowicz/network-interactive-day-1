@@ -1,4 +1,3 @@
-#<<<<<<< HEAD
 Kupa
 Test
 
@@ -10,4 +9,7 @@ BATMAN
 DAAAAA
 Luck Lu
 - hubimoore
+Kupa
+Kupasdacsd2
+
 
